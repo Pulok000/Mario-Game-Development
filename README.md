@@ -19,7 +19,7 @@ This was my first web app project which was completed back in January 2019. I wa
 Overview:  
 <p align="center">
   <a href="https://github.com/Pulok000/Django-Portfolio">
-    <img src="https://git.io/JyBCw" width="60%" alt="Preview"/>
+    <img src="https://git.io/JyBCw" alt="Preview"/>
   </a>
   <br/>
   <a href="#arifszn"><img src="https://git.io/Juceq" width="60%" alt="Shadow"/></a>
