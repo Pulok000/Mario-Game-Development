@@ -19,7 +19,7 @@ This was my first web app project which was completed back in January 2019. I wa
 Overview:  
 <p align="center">
   <a>
-    <img src="https://git.io/JyB81" alt="Preview"/>
+    <img src="overview.gif" alt="Preview"/>
       
 
   </a>
