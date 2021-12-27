@@ -19,8 +19,8 @@ This was my first web app project which was completed back in January 2019. I wa
 Overview:  
 <p align="center">
   <a>
-    <img src="" alt="Preview"/>
-      ![ezgif com-gif-maker](https://user-images.githubusercontent.com/30721770/147499503-fc631446-b393-475c-b208-35072823bf03.gif)
+    <img src="https://git.io/JyB81" alt="Preview"/>
+      
 
   </a>
   <br/>
