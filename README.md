@@ -18,7 +18,7 @@ This was my first web app project which was completed back in January 2019. I wa
  
 Overview:  
 <p align="center">
-  <a href="https://github.com/Pulok000/Django-Portfolio">
+  <a>
     <img src="https://git.io/JyBCw" alt="Preview"/>
   </a>
   <br/>
