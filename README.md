@@ -1,13 +1,11 @@
-# Mario-Game-Development
-A GUI mario game which was developed using own logic and knowledge of opengl
-
-
 <h1 align="center">Mario-Game-Development</h1>
 
 <p align="center">
     <a href="https://pulokahmed.herokuapp.com/" target="_blank"> https://pulokahmed.herokuapp.com/</a>
 </p>
 
+
+A GUI mario game which was developed using own logic and knowledge of opengl.
 
 This was my first web app project which was completed back in January 2019. I was learning the Django framework and created a simple portfolio site. The main focus was to
 
@@ -21,7 +19,7 @@ This was my first web app project which was completed back in January 2019. I wa
 Overview:  
 <p align="center">
   <a href="https://github.com/Pulok000/Django-Portfolio">
-    <img src="https://git.io/Junj2" width="60%" alt="Preview"/>
+    <img src="https://git.io/JyBCw" width="60%" alt="Preview"/>
   </a>
   <br/>
   <a href="#arifszn"><img src="https://git.io/Juceq" width="60%" alt="Shadow"/></a>
