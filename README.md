@@ -1,7 +1,7 @@
 <h1 align="center">Mario-Game-Development</h1>
 
 
-A GUI Mario game which has been developed using unique logic and knowledge of C++.
+A GUI Mario game for Desktop which has been developed using unique logic and knowledge of C++.
 
 
 Overview:  
